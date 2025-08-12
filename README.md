@@ -7,17 +7,5 @@ Quantitative Comparison
 <img width="865" height="352" alt="image" src="https://github.com/user-attachments/assets/5de11478-317b-4b1b-a563-0551edacb943" />
 <img width="884" height="340" alt="image" src="https://github.com/user-attachments/assets/7120b221-a3fb-493a-905a-b0e44e835acd" />
 
-💬 Dataset Preparation
-
 👉 Data structure
-"""
-Change detection data set with pixel-level binary labels；
-├─A
-├─B
-└─label
-"""
-A: images of t1 phase;
-
-B: images of t2 phase;
-
-label: label maps;
+<img width="791" height="278" alt="image" src="https://github.com/user-attachments/assets/6668fe08-f1ac-478f-9e95-fe118bc80279" />
