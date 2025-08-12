@@ -1,3 +1,5 @@
+# The code will be published after the article is accepted.  
+
 # FDFENet: Cropland Change Detection in Remote Sensing Images Based on Frequency Domain Feature Exchange and Multiscale Feature Enhancement
 # Methods
 <img width="885" height="536" alt="image" src="https://github.com/user-attachments/assets/e6c92f9e-351a-4878-9f89-9106499b316b" />  
